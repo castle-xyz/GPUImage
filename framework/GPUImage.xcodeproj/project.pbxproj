@@ -21,8 +21,6 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		BC1B715714F49DAA00ACA2AB /* GPUImageRawDataOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = BC1B715514F49DAA00ACA2AB /* GPUImageRawDataOutput.h */; };
-		BC1B715814F49DAA00ACA2AB /* GPUImageRawDataOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1B715614F49DAA00ACA2AB /* GPUImageRawDataOutput.m */; };
 		BC1B728114FB16AF00ACA2AB /* GPUImageMovieWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = BC1B727F14FB16AF00ACA2AB /* GPUImageMovieWriter.h */; };
 		BC1B728214FB16AF00ACA2AB /* GPUImageMovieWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1B728014FB16AF00ACA2AB /* GPUImageMovieWriter.m */; };
 		BC245DCA14DDBED7009FE7EB /* GPUImageFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = BC245DC814DDBED7009FE7EB /* GPUImageFilter.h */; };
@@ -52,8 +50,6 @@
 		BCB5E79514E3275200701302 /* GLProgram.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB5E79314E3275200701302 /* GLProgram.m */; };
 		BCB5E7DA14E6003400701302 /* GPUImagePicture.h in Headers */ = {isa = PBXBuildFile; fileRef = BCB5E7D814E6003400701302 /* GPUImagePicture.h */; };
 		BCB5E7DB14E6003400701302 /* GPUImagePicture.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB5E7D914E6003400701302 /* GPUImagePicture.m */; };
-		BCB6B8BB1505BF940041703B /* GPUImageTextureOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = BCB6B8B91505BF940041703B /* GPUImageTextureOutput.h */; };
-		BCB6B8BC1505BF940041703B /* GPUImageTextureOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB6B8BA1505BF940041703B /* GPUImageTextureOutput.m */; };
 		BCC887CC18A1CEEB008DB37D /* GPUImageFramebuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC887CA18A1CEEB008DB37D /* GPUImageFramebuffer.h */; };
 		BCC887CD18A1CEEB008DB37D /* GPUImageFramebuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC887CB18A1CEEB008DB37D /* GPUImageFramebuffer.m */; };
 		BCC887D018A1D3AD008DB37D /* GPUImageFramebufferCache.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC887CE18A1D3AD008DB37D /* GPUImageFramebufferCache.h */; };
@@ -71,8 +67,6 @@
 		BCD81E9919440442007133DB /* GPUImageFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = BC245DC814DDBED7009FE7EB /* GPUImageFilter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BCD81F29194404F7007133DB /* GPUImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = BCB5E75A14E2086300701302 /* GPUImageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BCD81F2A194404F7007133DB /* GPUImageMovieWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = BC1B727F14FB16AF00ACA2AB /* GPUImageMovieWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BCD81F2B194404F8007133DB /* GPUImageTextureOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = BCB6B8B91505BF940041703B /* GPUImageTextureOutput.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BCD81F2C194404F8007133DB /* GPUImageRawDataOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = BC1B715514F49DAA00ACA2AB /* GPUImageRawDataOutput.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BCD81F2D19440604007133DB /* GLProgram.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB5E79314E3275200701302 /* GLProgram.m */; };
 		BCD81F2F19440604007133DB /* GPUImageFramebuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC887CB18A1CEEB008DB37D /* GPUImageFramebuffer.m */; };
 		BCD81F3019440604007133DB /* GPUImageFramebufferCache.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC887CF18A1D3AD008DB37D /* GPUImageFramebufferCache.m */; };
@@ -83,8 +77,6 @@
 		BCD81F3B19440604007133DB /* GPUImageFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = BC245DC914DDBED7009FE7EB /* GPUImageFilter.m */; };
 		BCD81FCB19440606007133DB /* GPUImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB5E75B14E2086300701302 /* GPUImageView.m */; };
 		BCD81FCC19440606007133DB /* GPUImageMovieWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1B728014FB16AF00ACA2AB /* GPUImageMovieWriter.m */; };
-		BCD81FCD19440606007133DB /* GPUImageTextureOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB6B8BA1505BF940041703B /* GPUImageTextureOutput.m */; };
-		BCD81FCE19440606007133DB /* GPUImageRawDataOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = BC1B715614F49DAA00ACA2AB /* GPUImageRawDataOutput.m */; };
 		BCD81FD919440A97007133DB /* GPUImageFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = BC73FC011944008500671325 /* GPUImageFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BCF1A33814DDB1EC00852800 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCF1A33714DDB1EC00852800 /* Foundation.framework */; };
 		BCF3D68B153CC124009A1FE5 /* GPUImageTextureInput.h in Headers */ = {isa = PBXBuildFile; fileRef = BCF3D689153CC124009A1FE5 /* GPUImageTextureInput.h */; };
@@ -96,8 +88,6 @@
 /* Begin PBXFileReference section */
 		0D6948891501F58200206FF8 /* GPUImageFilterPipeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageFilterPipeline.h; path = Source/GPUImageFilterPipeline.h; sourceTree = SOURCE_ROOT; };
 		0D69488A1501F58200206FF8 /* GPUImageFilterPipeline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImageFilterPipeline.m; path = Source/GPUImageFilterPipeline.m; sourceTree = SOURCE_ROOT; };
-		BC1B715514F49DAA00ACA2AB /* GPUImageRawDataOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageRawDataOutput.h; path = Source/GPUImageRawDataOutput.h; sourceTree = SOURCE_ROOT; };
-		BC1B715614F49DAA00ACA2AB /* GPUImageRawDataOutput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImageRawDataOutput.m; path = Source/GPUImageRawDataOutput.m; sourceTree = SOURCE_ROOT; };
 		BC1B727F14FB16AF00ACA2AB /* GPUImageMovieWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageMovieWriter.h; path = Source/iOS/GPUImageMovieWriter.h; sourceTree = SOURCE_ROOT; };
 		BC1B728014FB16AF00ACA2AB /* GPUImageMovieWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImageMovieWriter.m; path = Source/iOS/GPUImageMovieWriter.m; sourceTree = SOURCE_ROOT; };
 		BC245DBF14DDBCF5009FE7EB /* GPUImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImage.h; path = Source/GPUImage.h; sourceTree = SOURCE_ROOT; };
@@ -120,8 +110,6 @@
 		BCB5E79314E3275200701302 /* GLProgram.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GLProgram.m; path = Source/GLProgram.m; sourceTree = SOURCE_ROOT; };
 		BCB5E7D814E6003400701302 /* GPUImagePicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImagePicture.h; path = Source/iOS/GPUImagePicture.h; sourceTree = SOURCE_ROOT; };
 		BCB5E7D914E6003400701302 /* GPUImagePicture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImagePicture.m; path = Source/iOS/GPUImagePicture.m; sourceTree = SOURCE_ROOT; };
-		BCB6B8B91505BF940041703B /* GPUImageTextureOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageTextureOutput.h; path = Source/GPUImageTextureOutput.h; sourceTree = SOURCE_ROOT; };
-		BCB6B8BA1505BF940041703B /* GPUImageTextureOutput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImageTextureOutput.m; path = Source/GPUImageTextureOutput.m; sourceTree = SOURCE_ROOT; };
 		BCC887CA18A1CEEB008DB37D /* GPUImageFramebuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageFramebuffer.h; path = Source/GPUImageFramebuffer.h; sourceTree = SOURCE_ROOT; };
 		BCC887CB18A1CEEB008DB37D /* GPUImageFramebuffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GPUImageFramebuffer.m; path = Source/GPUImageFramebuffer.m; sourceTree = SOURCE_ROOT; };
 		BCC887CE18A1D3AD008DB37D /* GPUImageFramebufferCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPUImageFramebufferCache.h; path = Source/GPUImageFramebufferCache.h; sourceTree = SOURCE_ROOT; };
@@ -208,10 +196,6 @@
 				BCB5E75B14E2086300701302 /* GPUImageView.m */,
 				BC1B727F14FB16AF00ACA2AB /* GPUImageMovieWriter.h */,
 				BC1B728014FB16AF00ACA2AB /* GPUImageMovieWriter.m */,
-				BCB6B8B91505BF940041703B /* GPUImageTextureOutput.h */,
-				BCB6B8BA1505BF940041703B /* GPUImageTextureOutput.m */,
-				BC1B715514F49DAA00ACA2AB /* GPUImageRawDataOutput.h */,
-				BC1B715614F49DAA00ACA2AB /* GPUImageRawDataOutput.m */,
 			);
 			name = Outputs;
 			sourceTree = "<group>";
@@ -300,8 +284,6 @@
 				BCD81E9919440442007133DB /* GPUImageFilter.h in Headers */,
 				BCD81F29194404F7007133DB /* GPUImageView.h in Headers */,
 				BCD81F2A194404F7007133DB /* GPUImageMovieWriter.h in Headers */,
-				BCD81F2B194404F8007133DB /* GPUImageTextureOutput.h in Headers */,
-				BCD81F2C194404F8007133DB /* GPUImageRawDataOutput.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,10 +298,8 @@
 				BCB5E77F14E22E4300701302 /* GPUImageOutput.h in Headers */,
 				BCB5E79414E3275200701302 /* GLProgram.h in Headers */,
 				BCB5E7DA14E6003400701302 /* GPUImagePicture.h in Headers */,
-				BC1B715714F49DAA00ACA2AB /* GPUImageRawDataOutput.h in Headers */,
 				BC1B728114FB16AF00ACA2AB /* GPUImageMovieWriter.h in Headers */,
 				BCC93A331502A92A00958B26 /* GPUImageFilterPipeline.h in Headers */,
-				BCB6B8BB1505BF940041703B /* GPUImageTextureOutput.h in Headers */,
 				BC73FC021944008500671325 /* GPUImageFramework.h in Headers */,
 				BCF3D68B153CC124009A1FE5 /* GPUImageTextureInput.h in Headers */,
 				BCC887CC18A1CEEB008DB37D /* GPUImageFramebuffer.h in Headers */,
@@ -442,8 +422,6 @@
 				BCD81F3B19440604007133DB /* GPUImageFilter.m in Sources */,
 				BCD81FCB19440606007133DB /* GPUImageView.m in Sources */,
 				BCD81FCC19440606007133DB /* GPUImageMovieWriter.m in Sources */,
-				BCD81FCD19440606007133DB /* GPUImageTextureOutput.m in Sources */,
-				BCD81FCE19440606007133DB /* GPUImageRawDataOutput.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,10 +435,8 @@
 				BCB5E78014E22E4300701302 /* GPUImageOutput.m in Sources */,
 				BCB5E79514E3275200701302 /* GLProgram.m in Sources */,
 				BCB5E7DB14E6003400701302 /* GPUImagePicture.m in Sources */,
-				BC1B715814F49DAA00ACA2AB /* GPUImageRawDataOutput.m in Sources */,
 				BC1B728214FB16AF00ACA2AB /* GPUImageMovieWriter.m in Sources */,
 				BCC93A301502A90F00958B26 /* GPUImageFilterPipeline.m in Sources */,
-				BCB6B8BC1505BF940041703B /* GPUImageTextureOutput.m in Sources */,
 				BCF3D68C153CC124009A1FE5 /* GPUImageTextureInput.m in Sources */,
 				BCC887CD18A1CEEB008DB37D /* GPUImageFramebuffer.m in Sources */,
 				BCC887D118A1D3AD008DB37D /* GPUImageFramebufferCache.m in Sources */,
